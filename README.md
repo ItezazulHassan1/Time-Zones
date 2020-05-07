@@ -1,2 +1,2 @@
 # Time-Zones
-This will tell you the difference between different time zones and many more
+Hi there, I am Hassan Nasir. I have created a program that let's you tell the difference between time zones from UTC. You can also convert to minutes, hours and seconds too and many other functions.
